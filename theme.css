@@ -10,9 +10,9 @@ body {
     margin: 0;
 }
 
-main {
+.main {
     text-align: center;
-    max-width: 600px;
+    max-width: 610px;
     padding: 1rem;
 }
 
